@@ -82,5 +82,5 @@ Wenn du auf deinem Mac ein Apple Silicon-Gerät (M1, M2, etc.) hast, kannst du d
 
 1. **Repository klonen**  
    ```bash
-   git clone https://github.com/DeinGitHubName/ZenAkku.git
+   git clone https://github.com/theoriginalbitter/ZenAkku.git
    cd ZenAkku
